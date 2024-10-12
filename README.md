@@ -3,11 +3,10 @@
 ## Description
 本項目主要用於矩陣運算W * X + B = Z並且依用戶需求對Z矩陣進行激活函數( 如 ReLU 和 sigmoid )應用、另提供不同維度矩陣運算。
 
-## 功能
-- 初始化矩阵。
-- 执行稀疏矩阵加法。
-- 执行稀疏矩阵乘法。
-- 应用激活函数（ReLU 和 sigmoid）到矩阵。
+## Function
+- parse matrix加法。
+- parse matrix乘法。
+- 激活函數（ReLU 和 sigmoid）的應用。
 
 ## Requirement
 程式碼以C語言進行編成，請確保您的裝置上有可執行C語言的環境。

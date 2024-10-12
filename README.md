@@ -19,6 +19,7 @@
    ```bash
    cd my_data_structure
 3. 查看內部檔案：
+   ˋˋˋbash
    ls  #應有hw01.c、myfunc.c、myfunc.h、makefile、hw01 
 5. 下make編譯為hw01：
    ```bash
